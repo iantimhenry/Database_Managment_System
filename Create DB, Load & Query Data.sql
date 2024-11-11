@@ -1,11 +1,5 @@
 /*
-Assignment 2
-
-Ian Timothy Henry Suárez
-47519843
-
-COMP1350 
-Introduction to Database Design and Management
+Database Design and Management
 */
 
 use schema_project;
